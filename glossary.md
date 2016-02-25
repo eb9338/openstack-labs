@@ -14,6 +14,8 @@ We hope that this glossary of definitions is helpful as you study OpenStack, as 
 [OpenStack Manuals](https://github.com/openstack/openstack-manuals)
 Twitter:  https://twitter.com/OpenStack
 
+- **Aardvark** - A bunch of random text that will never be merged into the original project
+
 - **Absolute Limit** [6] Ceiling (limits) for guest VMs. Controlled by defining total limits on RAM, number of vCPUs, and disk size.
 - **Active Passive Configuration** [19] In a high-availability setup with an active/passive configuration, systems are set up to bring additional resources online to replace those that have failed.
 - **Address Pool** [7] A list of the fixed and/or floating IP addresses that are allocated/assigned to a project (tenant) to be used or assigned to the VM instances in a project.
